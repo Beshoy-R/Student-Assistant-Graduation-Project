@@ -18,7 +18,7 @@ git clone https://github.com/Beshoy-R/Student-Assistant-Graduation-Project.git
 cd Student-Assistant-Graduation-Project
 pip install -r requirements.txt
 ```
-After installing the requirements make sure to run the both API's for the Summarization & Quiz generation to work
+After installing the requirements make sure to run both API's for the Summarization & Quiz generation to work
 ## Usage
 1. **Add Courses**: Set up your courses by adding course names and related materials.
 2. **Summarize Content**: Use the summarization feature to generate summaries from URLs, videos, or files.
