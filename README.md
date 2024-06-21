@@ -11,7 +11,7 @@ Student Assistant is a comprehensive tool designed to streamline academic life f
 - **GPA Calculator**: Easily calculate semester GPAs to monitor academic performance and set goals for improvement.
 
 ## Video Demonistration
-You can watch a demo about how the project works! [Click Me]([https://github.com/yourusername/student-assistant](https://www.dropbox.com/scl/fi/725xdk10xr7l4rdjzr12o/Demonstration.Video.Student.Assistant.Project.mp4?rlkey=pdko9ag099uex6se46tkmktyp&st=pvjt3mem&dl=0)).
+You can watch a demo about how the project works! [Click Me](https://www.dropbox.com/scl/fi/725xdk10xr7l4rdjzr12o/Demonstration.Video.Student.Assistant.Project.mp4?rlkey=pdko9ag099uex6se46tkmktyp&st=pvjt3mem&dl=0).
 
 ## Installation
 To get started with Student Assistant, clone the repository and install the necessary dependencies:
@@ -39,7 +39,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Transform your academic journey with Student Assistant – the ultimate tool to help you stay organized, prepared, and successful!
 
-For more details, visit the [GitHub repository](https://github.com/yourusername/student-assistant).
+For more details, visit the [GitHub repository](https://github.com/Beshoy-R/Student-Assistant-Graduation-Project).
 
 ---
 
