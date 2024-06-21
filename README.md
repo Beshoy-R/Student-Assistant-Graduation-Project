@@ -29,6 +29,9 @@ After installing the requirements make sure to run both API's for the Summarizat
 4. **Manage Deadlines**: Add your important deadlines to the calendar to stay organized.
 5. **Calculate GPA**: Input your grades to calculate your GPA and track academic progress.
 
+## Documentation & Presentation  
+You can take a look on the project presentation [From Here](https://www.dropbox.com/scl/fi/fhkritph97dfmmv7tefgz/Student-Assistant-Presentation.pptx?rlkey=jqzxwx9r0yd4xfor0xx222zfi&st=u4520bei&dl=0) or on the documentation [From Here](https://www.dropbox.com/scl/fi/yhvg4tl9gn4k9rj4xgvt5/Student.Assisstant.Project.Documentation.docx?rlkey=vev2y1nfuy23s2urzbbdhlr5x&st=vohaahx7&dl=0)
+
 ## Contributing
 We welcome contributions from the community to enhance Student Assistant. To contribute, please fork the repository and create a pull request with a detailed description of your changes.
 
