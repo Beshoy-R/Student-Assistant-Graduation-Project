@@ -10,7 +10,7 @@ Student Assistant is a comprehensive tool designed to streamline academic life f
 - **Deadline Calendar**: Keep track of important dates and deadlines with a built-in calendar to ensure timely submissions and preparation.
 - **GPA Calculator**: Easily calculate semester GPAs to monitor academic performance and set goals for improvement.
 
-## Video Demonistration
+## Video Demonstration
 You can watch a demo about how the project works! [Click Me](https://www.dropbox.com/scl/fi/725xdk10xr7l4rdjzr12o/Demonstration.Video.Student.Assistant.Project.mp4?rlkey=pdko9ag099uex6se46tkmktyp&st=pvjt3mem&dl=0).
 
 ## Installation
